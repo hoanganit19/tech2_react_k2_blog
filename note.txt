@@ -1,0 +1,13 @@
+- Components => Components dùng chung cho tất cả các Page (Global Components)
+
+- Pages => Chứa các module tương ứng theo routes
+
+- Configs => Chứa các file config (JSON)
+
+- Routes => Chứa các đăng ký routes
+
+- Assets => Chứa fonts, images, styles,...
+
+- Layouts => Chứa các thành phần của Layouts: header, footer, sidebar,...
+
+- Services => Viết các thư viện, hàm hỗ trợ

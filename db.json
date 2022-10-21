@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thời sự",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 2,
+      "name": "Kinh doanh",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 3,
+      "name": "Pháp luật",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ",
+      "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio placeat exercitationem magni voluptates dolore. Tenetur fugiat voluptates quas, nobis error deserunt aliquam temporibus sapiente, laudantium dolorum itaque libero eos deleniti?",
+      "content": "<figure class=\"image align-center\" contenteditable=\"false\"><img title=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" src=\"https://icdn.dantri.com.vn/thumb_w/680/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" alt=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" data-width=\"850\" data-height=\"540\" data-original=\"https://icdn.dantri.com.vn/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" data-photo-id=\"2087457\" data-track-content=\"\" data-content-name=\"article-content-image\" data-content-piece=\"article-content-image_2087457\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\"> <figcaption> <p>Kể từ khi chiến sự Nga - Ukraine bùng phát, Mỹ là một trong những bên viện trợ vũ khí tích cực nhất cho Kiev (Ảnh minh họa: Reuters).</p> </figcaption></figure> <p>Tuyên bố của lãnh đạo phe thiểu số tại Hạ viện Mỹ Kevin McCarthy về viễn cảnh viện trợ Ukraine đã khiến giới chức Kiev bất ngờ, theo ông David Arakhamia - lãnh đạo các nghị sĩ đảng cầm quyền Đầy tớ của nhân dân trong quốc hội Ukraine.</p> <p>Hồi đầu tuần, ông McCarthy nói rằng, các nghị sĩ đảng Cộng hòa của Mỹ có thể cắt giảm sự hỗ trợ cho Ukraine nếu họ giành được quyền kiểm soát cơ quan lập pháp sau cuộc bầu cử giữa kỳ ngày 8/11 tới.</p> <p>Nhà làm luật trên cho rằng, dù việc hỗ trợ Ukraine vẫn quan trọng với Mỹ, nhưng nó có thể không còn là vấn đề chủ chốt trong chương trình nghị sự của Washington.</p> <p>\"Tôi lo Mỹ sẽ rơi vào tình trạng suy thoái kinh tế và họ (các nghị sĩ) sẽ không thể viết những tờ séc trắng cho Ukraine\", ông McCarthy nói.</p> <p>Theo trang tin <em>Axios</em>, nhiều nghị sĩ đảng Cộng hòa cũng có quan điểm khá tương đồng với ông McCarthy.</p> <p>\"Chúng tôi bị sốc khi nghe những bình luận như vậy từ ông McCarthy\", ông Arakhamia nói với<em> Financial Times.</em></p> <p>Theo ông Arakhamia, phát biểu của ông McCarthy đối lập với những gì ông từng nói trong cuộc gặp trực tiếp giữa 2 chính trị gia ở Washington hồi tháng 6.</p> <p>\"Chỉ vài tuần trước, phái đoàn của chúng tôi đã đến thăm Mỹ và có cuộc gặp với ông McCarthy. Chúng tôi được đảm bảo rằng sự ủng hộ của lưỡng đảng Mỹ đối với Ukraine trong cuộc chiến với Nga sẽ vẫn là ưu tiên hàng đầu ngay cả khi họ giành chiến thắng trong cuộc bầu cử \", quan chức Kiev nhấn mạnh.</p> <p>Trong khi đó, Tổng thống Mỹ Joe Biden hôm 20/10 thừa nhận ông lo ngại về viễn cảnh những khoản viện trợ tương lai cho Ukraine nếu kịch bản đảng Cộng hòa nắm quyền kiểm soát Thượng viện hoặc Hạ viện Mỹ sau cuộc bầu cử ngày 8/11.</p> <p>\"Tôi cảm thấy lo lắng\", ông Biden trả lời khi được hỏi về tác động tới các khoản viện trợ cho Ukraine nếu phe Cộng hòa chiến thắng.</p> <p>Theo <em>Reuters</em>, nội bộ đảng Cộng hòa Mỹ dường như đang chia rẽ bởi 2 luồng ý kiến, khi một bên ủng hộ chính sách cứng rắn để kiềm chế Nga, trong khi bên còn lại muốn một chính sách đối ngoại biệt lập hơn.</p> <p>Trong khi đó, <em>Politico</em> dẫn lời các quan chức Nhà Trắng ẩn danh cho hay, chính phủ Ukraine được cho hiểu được một điều rằng, việc viện trợ cho Kiev có thể thay đổi nếu đảng Cộng hòa giành lại từ đảng Dân chủ quyền kiểm soát một trong 2 cơ quan lập pháp.</p> <p>Người phát ngôn Bộ Ngoại giao Ukraine Oleg Nikolenko nói với <em>Financial Times</em> rằng, nước này vẫn trông chờ vào \"sự hỗ trợ liên tục từ lưỡng đảng\" của Mỹ.</p> <p>Khi được hỏi về phát biểu của ông McCarthy, phát ngôn viên Nhà Trắng Karine Jean-Pierre, đảm bảo rằng chính quyền Biden sẽ \"tiếp tục làm việc với quốc hội, như chúng tôi đã làm trong vài tháng qua, về những nỗ lực này và hỗ trợ Ukraine miễn là có thể\".</p> <p>Mỹ là một trong những bên ủng hộ mạnh mẽ nhất cho Ukraine kể từ khi Nga mở chiến dịch <a href=\"https://dantri.com.vn/the-gioi/quan-su.htm\" data-auto-link-id=\"6137992efb044100119a147e\" data-track-content=\"\" data-content-name=\"article-content-autolink\" data-content-piece=\"article-content-autolink_6137992efb044100119a147e\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\">quân sự</a> hồi cuối tháng 2. Mỹ viện trợ Ukraine hàng loạt vũ khí, thông tin tình báo. Nga chỉ trích động thái này, cho rằng, nó chỉ khiến xung đột kéo dài và làm gia tăng nguy cơ đối đầu trực tiếp giữa Nga và NATO.</p>",
+      "categoryId": 1,
+      "userId": 1,
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 2,
+      "title": "Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ 02",
+      "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio placeat exercitationem magni voluptates dolore. Tenetur fugiat voluptates quas, nobis error deserunt aliquam temporibus sapiente, laudantium dolorum itaque libero eos deleniti?",
+      "content": "<figure class=\"image align-center\" contenteditable=\"false\"><img title=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" src=\"https://icdn.dantri.com.vn/thumb_w/680/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" alt=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" data-width=\"850\" data-height=\"540\" data-original=\"https://icdn.dantri.com.vn/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" data-photo-id=\"2087457\" data-track-content=\"\" data-content-name=\"article-content-image\" data-content-piece=\"article-content-image_2087457\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\"> <figcaption> <p>Kể từ khi chiến sự Nga - Ukraine bùng phát, Mỹ là một trong những bên viện trợ vũ khí tích cực nhất cho Kiev (Ảnh minh họa: Reuters).</p> </figcaption></figure> <p>Tuyên bố của lãnh đạo phe thiểu số tại Hạ viện Mỹ Kevin McCarthy về viễn cảnh viện trợ Ukraine đã khiến giới chức Kiev bất ngờ, theo ông David Arakhamia - lãnh đạo các nghị sĩ đảng cầm quyền Đầy tớ của nhân dân trong quốc hội Ukraine.</p> <p>Hồi đầu tuần, ông McCarthy nói rằng, các nghị sĩ đảng Cộng hòa của Mỹ có thể cắt giảm sự hỗ trợ cho Ukraine nếu họ giành được quyền kiểm soát cơ quan lập pháp sau cuộc bầu cử giữa kỳ ngày 8/11 tới.</p> <p>Nhà làm luật trên cho rằng, dù việc hỗ trợ Ukraine vẫn quan trọng với Mỹ, nhưng nó có thể không còn là vấn đề chủ chốt trong chương trình nghị sự của Washington.</p> <p>\"Tôi lo Mỹ sẽ rơi vào tình trạng suy thoái kinh tế và họ (các nghị sĩ) sẽ không thể viết những tờ séc trắng cho Ukraine\", ông McCarthy nói.</p> <p>Theo trang tin <em>Axios</em>, nhiều nghị sĩ đảng Cộng hòa cũng có quan điểm khá tương đồng với ông McCarthy.</p> <p>\"Chúng tôi bị sốc khi nghe những bình luận như vậy từ ông McCarthy\", ông Arakhamia nói với<em> Financial Times.</em></p> <p>Theo ông Arakhamia, phát biểu của ông McCarthy đối lập với những gì ông từng nói trong cuộc gặp trực tiếp giữa 2 chính trị gia ở Washington hồi tháng 6.</p> <p>\"Chỉ vài tuần trước, phái đoàn của chúng tôi đã đến thăm Mỹ và có cuộc gặp với ông McCarthy. Chúng tôi được đảm bảo rằng sự ủng hộ của lưỡng đảng Mỹ đối với Ukraine trong cuộc chiến với Nga sẽ vẫn là ưu tiên hàng đầu ngay cả khi họ giành chiến thắng trong cuộc bầu cử \", quan chức Kiev nhấn mạnh.</p> <p>Trong khi đó, Tổng thống Mỹ Joe Biden hôm 20/10 thừa nhận ông lo ngại về viễn cảnh những khoản viện trợ tương lai cho Ukraine nếu kịch bản đảng Cộng hòa nắm quyền kiểm soát Thượng viện hoặc Hạ viện Mỹ sau cuộc bầu cử ngày 8/11.</p> <p>\"Tôi cảm thấy lo lắng\", ông Biden trả lời khi được hỏi về tác động tới các khoản viện trợ cho Ukraine nếu phe Cộng hòa chiến thắng.</p> <p>Theo <em>Reuters</em>, nội bộ đảng Cộng hòa Mỹ dường như đang chia rẽ bởi 2 luồng ý kiến, khi một bên ủng hộ chính sách cứng rắn để kiềm chế Nga, trong khi bên còn lại muốn một chính sách đối ngoại biệt lập hơn.</p> <p>Trong khi đó, <em>Politico</em> dẫn lời các quan chức Nhà Trắng ẩn danh cho hay, chính phủ Ukraine được cho hiểu được một điều rằng, việc viện trợ cho Kiev có thể thay đổi nếu đảng Cộng hòa giành lại từ đảng Dân chủ quyền kiểm soát một trong 2 cơ quan lập pháp.</p> <p>Người phát ngôn Bộ Ngoại giao Ukraine Oleg Nikolenko nói với <em>Financial Times</em> rằng, nước này vẫn trông chờ vào \"sự hỗ trợ liên tục từ lưỡng đảng\" của Mỹ.</p> <p>Khi được hỏi về phát biểu của ông McCarthy, phát ngôn viên Nhà Trắng Karine Jean-Pierre, đảm bảo rằng chính quyền Biden sẽ \"tiếp tục làm việc với quốc hội, như chúng tôi đã làm trong vài tháng qua, về những nỗ lực này và hỗ trợ Ukraine miễn là có thể\".</p> <p>Mỹ là một trong những bên ủng hộ mạnh mẽ nhất cho Ukraine kể từ khi Nga mở chiến dịch <a href=\"https://dantri.com.vn/the-gioi/quan-su.htm\" data-auto-link-id=\"6137992efb044100119a147e\" data-track-content=\"\" data-content-name=\"article-content-autolink\" data-content-piece=\"article-content-autolink_6137992efb044100119a147e\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\">quân sự</a> hồi cuối tháng 2. Mỹ viện trợ Ukraine hàng loạt vũ khí, thông tin tình báo. Nga chỉ trích động thái này, cho rằng, nó chỉ khiến xung đột kéo dài và làm gia tăng nguy cơ đối đầu trực tiếp giữa Nga và NATO.</p>",
+      "categoryId": 1,
+      "userId": 1,
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 3,
+      "title": "Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ 03",
+      "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio placeat exercitationem magni voluptates dolore. Tenetur fugiat voluptates quas, nobis error deserunt aliquam temporibus sapiente, laudantium dolorum itaque libero eos deleniti?",
+      "content": "<figure class=\"image align-center\" contenteditable=\"false\"><img title=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" src=\"https://icdn.dantri.com.vn/thumb_w/680/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" alt=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" data-width=\"850\" data-height=\"540\" data-original=\"https://icdn.dantri.com.vn/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" data-photo-id=\"2087457\" data-track-content=\"\" data-content-name=\"article-content-image\" data-content-piece=\"article-content-image_2087457\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\"> <figcaption> <p>Kể từ khi chiến sự Nga - Ukraine bùng phát, Mỹ là một trong những bên viện trợ vũ khí tích cực nhất cho Kiev (Ảnh minh họa: Reuters).</p> </figcaption></figure> <p>Tuyên bố của lãnh đạo phe thiểu số tại Hạ viện Mỹ Kevin McCarthy về viễn cảnh viện trợ Ukraine đã khiến giới chức Kiev bất ngờ, theo ông David Arakhamia - lãnh đạo các nghị sĩ đảng cầm quyền Đầy tớ của nhân dân trong quốc hội Ukraine.</p> <p>Hồi đầu tuần, ông McCarthy nói rằng, các nghị sĩ đảng Cộng hòa của Mỹ có thể cắt giảm sự hỗ trợ cho Ukraine nếu họ giành được quyền kiểm soát cơ quan lập pháp sau cuộc bầu cử giữa kỳ ngày 8/11 tới.</p> <p>Nhà làm luật trên cho rằng, dù việc hỗ trợ Ukraine vẫn quan trọng với Mỹ, nhưng nó có thể không còn là vấn đề chủ chốt trong chương trình nghị sự của Washington.</p> <p>\"Tôi lo Mỹ sẽ rơi vào tình trạng suy thoái kinh tế và họ (các nghị sĩ) sẽ không thể viết những tờ séc trắng cho Ukraine\", ông McCarthy nói.</p> <p>Theo trang tin <em>Axios</em>, nhiều nghị sĩ đảng Cộng hòa cũng có quan điểm khá tương đồng với ông McCarthy.</p> <p>\"Chúng tôi bị sốc khi nghe những bình luận như vậy từ ông McCarthy\", ông Arakhamia nói với<em> Financial Times.</em></p> <p>Theo ông Arakhamia, phát biểu của ông McCarthy đối lập với những gì ông từng nói trong cuộc gặp trực tiếp giữa 2 chính trị gia ở Washington hồi tháng 6.</p> <p>\"Chỉ vài tuần trước, phái đoàn của chúng tôi đã đến thăm Mỹ và có cuộc gặp với ông McCarthy. Chúng tôi được đảm bảo rằng sự ủng hộ của lưỡng đảng Mỹ đối với Ukraine trong cuộc chiến với Nga sẽ vẫn là ưu tiên hàng đầu ngay cả khi họ giành chiến thắng trong cuộc bầu cử \", quan chức Kiev nhấn mạnh.</p> <p>Trong khi đó, Tổng thống Mỹ Joe Biden hôm 20/10 thừa nhận ông lo ngại về viễn cảnh những khoản viện trợ tương lai cho Ukraine nếu kịch bản đảng Cộng hòa nắm quyền kiểm soát Thượng viện hoặc Hạ viện Mỹ sau cuộc bầu cử ngày 8/11.</p> <p>\"Tôi cảm thấy lo lắng\", ông Biden trả lời khi được hỏi về tác động tới các khoản viện trợ cho Ukraine nếu phe Cộng hòa chiến thắng.</p> <p>Theo <em>Reuters</em>, nội bộ đảng Cộng hòa Mỹ dường như đang chia rẽ bởi 2 luồng ý kiến, khi một bên ủng hộ chính sách cứng rắn để kiềm chế Nga, trong khi bên còn lại muốn một chính sách đối ngoại biệt lập hơn.</p> <p>Trong khi đó, <em>Politico</em> dẫn lời các quan chức Nhà Trắng ẩn danh cho hay, chính phủ Ukraine được cho hiểu được một điều rằng, việc viện trợ cho Kiev có thể thay đổi nếu đảng Cộng hòa giành lại từ đảng Dân chủ quyền kiểm soát một trong 2 cơ quan lập pháp.</p> <p>Người phát ngôn Bộ Ngoại giao Ukraine Oleg Nikolenko nói với <em>Financial Times</em> rằng, nước này vẫn trông chờ vào \"sự hỗ trợ liên tục từ lưỡng đảng\" của Mỹ.</p> <p>Khi được hỏi về phát biểu của ông McCarthy, phát ngôn viên Nhà Trắng Karine Jean-Pierre, đảm bảo rằng chính quyền Biden sẽ \"tiếp tục làm việc với quốc hội, như chúng tôi đã làm trong vài tháng qua, về những nỗ lực này và hỗ trợ Ukraine miễn là có thể\".</p> <p>Mỹ là một trong những bên ủng hộ mạnh mẽ nhất cho Ukraine kể từ khi Nga mở chiến dịch <a href=\"https://dantri.com.vn/the-gioi/quan-su.htm\" data-auto-link-id=\"6137992efb044100119a147e\" data-track-content=\"\" data-content-name=\"article-content-autolink\" data-content-piece=\"article-content-autolink_6137992efb044100119a147e\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\">quân sự</a> hồi cuối tháng 2. Mỹ viện trợ Ukraine hàng loạt vũ khí, thông tin tình báo. Nga chỉ trích động thái này, cho rằng, nó chỉ khiến xung đột kéo dài và làm gia tăng nguy cơ đối đầu trực tiếp giữa Nga và NATO.</p>",
+      "categoryId": 2,
+      "userId": 2,
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 4,
+      "title": "Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ 04",
+      "excerpt": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio placeat exercitationem magni voluptates dolore. Tenetur fugiat voluptates quas, nobis error deserunt aliquam temporibus sapiente, laudantium dolorum itaque libero eos deleniti?",
+      "content": "<figure class=\"image align-center\" contenteditable=\"false\"><img title=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" src=\"https://icdn.dantri.com.vn/thumb_w/680/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" alt=\"Ukraine bị sốc với viễn cảnh Mỹ có thể giảm viện trợ  - 1\" data-width=\"850\" data-height=\"540\" data-original=\"https://icdn.dantri.com.vn/2022/08/09/a-us-himars-system-in-action-9040-1660030154296.jpg\" data-photo-id=\"2087457\" data-track-content=\"\" data-content-name=\"article-content-image\" data-content-piece=\"article-content-image_2087457\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\"> <figcaption> <p>Kể từ khi chiến sự Nga - Ukraine bùng phát, Mỹ là một trong những bên viện trợ vũ khí tích cực nhất cho Kiev (Ảnh minh họa: Reuters).</p> </figcaption></figure> <p>Tuyên bố của lãnh đạo phe thiểu số tại Hạ viện Mỹ Kevin McCarthy về viễn cảnh viện trợ Ukraine đã khiến giới chức Kiev bất ngờ, theo ông David Arakhamia - lãnh đạo các nghị sĩ đảng cầm quyền Đầy tớ của nhân dân trong quốc hội Ukraine.</p> <p>Hồi đầu tuần, ông McCarthy nói rằng, các nghị sĩ đảng Cộng hòa của Mỹ có thể cắt giảm sự hỗ trợ cho Ukraine nếu họ giành được quyền kiểm soát cơ quan lập pháp sau cuộc bầu cử giữa kỳ ngày 8/11 tới.</p> <p>Nhà làm luật trên cho rằng, dù việc hỗ trợ Ukraine vẫn quan trọng với Mỹ, nhưng nó có thể không còn là vấn đề chủ chốt trong chương trình nghị sự của Washington.</p> <p>\"Tôi lo Mỹ sẽ rơi vào tình trạng suy thoái kinh tế và họ (các nghị sĩ) sẽ không thể viết những tờ séc trắng cho Ukraine\", ông McCarthy nói.</p> <p>Theo trang tin <em>Axios</em>, nhiều nghị sĩ đảng Cộng hòa cũng có quan điểm khá tương đồng với ông McCarthy.</p> <p>\"Chúng tôi bị sốc khi nghe những bình luận như vậy từ ông McCarthy\", ông Arakhamia nói với<em> Financial Times.</em></p> <p>Theo ông Arakhamia, phát biểu của ông McCarthy đối lập với những gì ông từng nói trong cuộc gặp trực tiếp giữa 2 chính trị gia ở Washington hồi tháng 6.</p> <p>\"Chỉ vài tuần trước, phái đoàn của chúng tôi đã đến thăm Mỹ và có cuộc gặp với ông McCarthy. Chúng tôi được đảm bảo rằng sự ủng hộ của lưỡng đảng Mỹ đối với Ukraine trong cuộc chiến với Nga sẽ vẫn là ưu tiên hàng đầu ngay cả khi họ giành chiến thắng trong cuộc bầu cử \", quan chức Kiev nhấn mạnh.</p> <p>Trong khi đó, Tổng thống Mỹ Joe Biden hôm 20/10 thừa nhận ông lo ngại về viễn cảnh những khoản viện trợ tương lai cho Ukraine nếu kịch bản đảng Cộng hòa nắm quyền kiểm soát Thượng viện hoặc Hạ viện Mỹ sau cuộc bầu cử ngày 8/11.</p> <p>\"Tôi cảm thấy lo lắng\", ông Biden trả lời khi được hỏi về tác động tới các khoản viện trợ cho Ukraine nếu phe Cộng hòa chiến thắng.</p> <p>Theo <em>Reuters</em>, nội bộ đảng Cộng hòa Mỹ dường như đang chia rẽ bởi 2 luồng ý kiến, khi một bên ủng hộ chính sách cứng rắn để kiềm chế Nga, trong khi bên còn lại muốn một chính sách đối ngoại biệt lập hơn.</p> <p>Trong khi đó, <em>Politico</em> dẫn lời các quan chức Nhà Trắng ẩn danh cho hay, chính phủ Ukraine được cho hiểu được một điều rằng, việc viện trợ cho Kiev có thể thay đổi nếu đảng Cộng hòa giành lại từ đảng Dân chủ quyền kiểm soát một trong 2 cơ quan lập pháp.</p> <p>Người phát ngôn Bộ Ngoại giao Ukraine Oleg Nikolenko nói với <em>Financial Times</em> rằng, nước này vẫn trông chờ vào \"sự hỗ trợ liên tục từ lưỡng đảng\" của Mỹ.</p> <p>Khi được hỏi về phát biểu của ông McCarthy, phát ngôn viên Nhà Trắng Karine Jean-Pierre, đảm bảo rằng chính quyền Biden sẽ \"tiếp tục làm việc với quốc hội, như chúng tôi đã làm trong vài tháng qua, về những nỗ lực này và hỗ trợ Ukraine miễn là có thể\".</p> <p>Mỹ là một trong những bên ủng hộ mạnh mẽ nhất cho Ukraine kể từ khi Nga mở chiến dịch <a href=\"https://dantri.com.vn/the-gioi/quan-su.htm\" data-auto-link-id=\"6137992efb044100119a147e\" data-track-content=\"\" data-content-name=\"article-content-autolink\" data-content-piece=\"article-content-autolink_6137992efb044100119a147e\" data-content-target=\"/the-gioi/ukraine-bi-soc-voi-vien-canh-my-co-the-giam-vien-tro-20221021074840998.htm\">quân sự</a> hồi cuối tháng 2. Mỹ viện trợ Ukraine hàng loạt vũ khí, thông tin tình báo. Nga chỉ trích động thái này, cho rằng, nó chỉ khiến xung đột kéo dài và làm gia tăng nguy cơ đối đầu trực tiếp giữa Nga và NATO.</p>",
+      "categoryId": 2,
+      "userId": 2,
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Hoàng An",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 2,
+      "name": "Văn Quân",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 3,
+      "name": "Anh Tuấn",
+      "created_at": "2022-10-21 14:00:00",
+      "updated_at": "2022-10-21 14:00:00"
+    }
+  ],
+
+  "options": {
+    "logo": "ZenBlog",
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "intagram": "#"
+    },
+    "footer": {
+      
+    }
+  }
+
+}
