@@ -1,11 +1,27 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import Copyright from "./Copyright";
+import FooterTop from "./FooterTop";
+import Social from "./Social";
 
 export class Footers extends Component {
   render() {
     return (
-      <h1>Footer</h1>
-    )
+      <>
+        {/* ======= Footer ======= */}
+        <footer id="footer" className="footer">
+          <FooterTop />
+          <div className="footer-legal">
+            <div className="container">
+              <div className="row justify-content-between">
+                <Copyright />
+                <Social />
+              </div>
+            </div>
+          </div>
+        </footer>
+      </>
+    );
   }
 }
 
-export default Footers
+export default Footers;

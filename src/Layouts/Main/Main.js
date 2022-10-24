@@ -8,7 +8,7 @@ export class Main extends Component {
     return (
       <>
         <Header />
-        <main className="main-content">
+        <main id="main">
           {routes}
         </main>
         <Footer />

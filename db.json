@@ -92,12 +92,65 @@
   ],
 
   "options": {
-    "logo": "ZenBlog",
+    "logo": "Tech2 Solutions",
     "social": {
-      "facebook": "#",
+      "facebook": "https://fb.com/hoanganit",
       "twitter": "#",
       "intagram": "#"
     },
+    "menus": [
+      {
+        "link": "#",
+        "title": "Trang chủ"
+      },
+
+      {
+        "link": "#",
+        "title": "Giới thiệu"
+      },
+
+      {
+        "link": "#",
+        "title": "Sản phẩm",
+        "children": [
+          {
+            "link": "#",
+            "title": "Sản phẩm 1"
+          },
+
+          {
+            "link": "#",
+            "title": "Sản phẩm 2",
+            "children": [
+              {
+                "link": "#",
+                "title": "Sản phẩm 2.1"
+              },
+
+              {
+                "link": "#",
+                "title": "Sản phẩm 2.2"
+              },
+
+              {
+                "link": "#",
+                "title": "Sản phẩm 2.3"
+              }
+            ]
+          },
+
+          {
+            "link": "#",
+            "title": "Sản phẩm 3"
+          }
+        ]
+      },
+
+      {
+        "link": "#",
+        "title": "Liên hệ"
+      }
+    ],
     "footer": {
       
     }
