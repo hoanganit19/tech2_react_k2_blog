@@ -11,3 +11,11 @@
 - Layouts => Chứa các thành phần của Layouts: header, footer, sidebar,...
 
 - Services => Viết các thư viện, hàm hỗ trợ
+
+Bài viết 
+
+- Bài viết theo chuyên mục 
+- Bài viết theo tìm kiếm
+=> Global State 
+
+- Bài viết chi tiết 
