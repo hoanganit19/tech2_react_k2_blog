@@ -46,15 +46,15 @@ export default class HttpClient {
   };
 
   post = (url, body, params={}) => {
-    return this.callApi(url, "POST", body, params);
+    return this.callApi(url, "POST", params, body);
   };
 
   put = (url, body, params={}) => {
-    return this.callApi(url, "PUT", body, params);
+    return this.callApi(url, "PUT", params, body);
   };
 
   patch = (url, body, params={}) => {
-    return this.callApi(url, "PATCH", body, params);
+    return this.callApi(url, "PATCH", params, body);
   };
 
   delete = (url, params={}) => {
