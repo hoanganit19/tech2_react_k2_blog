@@ -769,7 +769,6 @@ section {
 .post-content figure {
   position: relative;
   left: 52%;
-  min-width: 990px;
   transform: translateX(-50%);
 }
 

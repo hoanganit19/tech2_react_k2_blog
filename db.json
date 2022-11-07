@@ -257,6 +257,68 @@
         "limit": 4
       }
     }
-  }
+  },
+
+  "comments": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "email": "friendntt10@gmail.com",
+      "message": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non minima ipsum at amet doloremque qui magni, placeat deserunt pariatur itaque laudantium impedit aliquam eligendi repellendus excepturi quibusdam nobis esse accusantium",
+      "postId": 1,
+      "status": 1,
+      "parentId": 0,
+      "created_at":"2022-10-21 14:00:00",
+      "update_at":"2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 2,
+      "name": "Nguyễn Văn B",
+      "email": "hoangan.web@gmail.com",
+      "message": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non minima ipsum at amet doloremque qui magni, placeat deserunt pariatur itaque laudantium impedit aliquam eligendi repellendus excepturi quibusdam nobis esse accusantium",
+      "postId": 1,
+      "status": 1,
+      "parentId": 0,
+      "created_at":"2022-10-21 14:00:00",
+      "update_at":"2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 3,
+      "name": "Nguyễn Văn C",
+      "email": "nguyenvanc@gmail.com",
+      "message": "Trả lời 01",
+      "postId": 1,
+      "status": 1,
+      "parentId": 1,
+      "created_at":"2022-10-21 14:00:00",
+      "update_at":"2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 4,
+      "name": "Nguyễn Văn D",
+      "email": "nguyenvand@gmail.com",
+      "message": "Trả lời 02",
+      "postId": 1,
+      "status": 1,
+      "parentId": 1,
+      "created_at":"2022-10-21 14:00:00",
+      "update_at":"2022-10-21 14:00:00"
+    },
+
+    {
+      "id": 5,
+      "name": "Nguyễn Văn E",
+      "email": "nguyenvane@gmail.com",
+      "message": "Trả lời 03",
+      "postId": 1,
+      "status": 1,
+      "parentId": 2,
+      "created_at":"2022-10-21 14:00:00",
+      "update_at":"2022-10-21 14:00:00"
+    }
+  ]
 
 }

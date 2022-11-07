@@ -2,5 +2,6 @@
     "POSTS": "/posts",
     "CATEGORIES": "/categories",
     "USERS": "/users",
-    "OPTIONS": "/options"
+    "OPTIONS": "/options",
+    "COMMENTS": "/comments"
 }
