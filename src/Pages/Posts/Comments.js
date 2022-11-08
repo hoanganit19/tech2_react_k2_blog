@@ -1,6 +1,7 @@
-import React, { Component } from "react";
+import React, { Component, createRef } from "react";
 import withRouter from "../../Services/Routes/withRouter";
 import HttpClient from "../../Services/Helpers/Api/HttpClient";
+import withContext from '../../Services/Context/withContext';
 import moment from "moment";
 
 const md5 = require("md5");
@@ -10,40 +11,38 @@ const client = new HttpClient();
 export class Comments extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      comments: [],
-    };
+    this.commentsRef = createRef();
   }
 
-  getComments = async (postId) => {
-    const res = await client.get(client.comments, {
-      postId: postId,
-      parentId: 0,
-    });
-    if (res.response.ok) {
-      const comments = res.data;
-      if (comments.length) {
-        for (const index in comments) {
-          const replyRes = await client.get(client.comments, {
-            postId: postId,
-            parentId: comments[index].id,
-          });
-          if (replyRes.response.ok && replyRes.data.length) {
-            comments[index].reply = replyRes.data;
+  makeTreeComments = (comments, parentId=0) => {
+    const tree = [];
+    if (comments.length){
+      comments.forEach((comment, index) => {
+        if (comment.parentId == parentId){
+          tree.push(comment);
+          if (tree[index]!==undefined){
+            tree[index].reply = this.makeTreeComments(comments, comment.id);
+            
           }
+         
         }
-      }
-
-      this.setState({
-        comments: comments,
-      });
+      })
     }
-  };
 
+    return tree;
+  }
+
+  
   componentDidMount = () => {
     const { id } = this.props.params;
-    this.getComments(id);
+    const {getComments} = this.props.store.action;
+    getComments(id);
   };
+
+  componentDidUpdate = () => {
+    const offsetTop = this.commentsRef.current.offsetTop;
+    window.scroll(0, offsetTop);
+  }
 
   getGravatarURL = (email) => {
     // Trim leading and trailing whitespace from
@@ -59,9 +58,12 @@ export class Comments extends Component {
   };
 
   render() {
-    const { comments } = this.state;
+    //const { comments } = this.state;
+    let {comments} = this.props.store.data;
+    comments = this.makeTreeComments(comments);
+    
     return (
-      <div className="comments">
+      <div className="comments" ref={this.commentsRef}>
         <h5 className="comment-title py-4">{comments.length} Comments</h5>
         {comments.length > 0 &&
           comments.map(({ id, name, email, message, created_at, reply }) => {
@@ -84,7 +86,8 @@ export class Comments extends Component {
                     </span>
                   </div>
                   <div className="comment-body">{message}</div>
-                  {reply?.length && (
+                  <p className="my-2"><a style={{color: 'red', fontStyle: 'italic'}} href="#">Write Reply</a></p>
+                  {reply?.length>0 && (
                     <div className="comment-replies bg-light p-3 mt-3 rounded">
                       <h6 className="comment-replies-title mb-4 text-muted text-uppercase">
                         {reply.length} replies
@@ -124,4 +127,4 @@ export class Comments extends Component {
   }
 }
 
-export default withRouter(Comments);
+export default withContext(withRouter(Comments));
