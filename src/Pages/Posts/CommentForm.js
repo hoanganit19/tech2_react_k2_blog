@@ -36,7 +36,8 @@ export class CommentForm extends Component {
         postId: postId,
         status: 1,
         parentId: 0,
-        created_at: moment().format("YYYY-MM-DD hh:mm:ss")
+        created_at: moment().format("YYYY-MM-DD hh:mm:ss"),
+        updated_at: moment().format("YYYY-MM-DD hh:mm:ss")
       }
       postComment(comment, postId);
       this.setState({

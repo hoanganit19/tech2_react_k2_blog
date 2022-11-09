@@ -11,7 +11,8 @@ export class StateProvider extends Component {
     this.state = {
       postsList: [],
       keyword: '',
-      comments: []
+      comments: [],
+      typeComment: 'comment'
     }
 
     //Đăng ký các action
@@ -60,10 +61,16 @@ export class StateProvider extends Component {
     }
   }
 
-  postComment = async (comment, postId) => {
+  postComment = async (comment, postId, type='comment') => {
     const res = await client.post(client.comments, comment);
     if (res.response.ok){
       this.getComments(postId);
+      if (type==='reply'){
+        this.setState({
+          typeComment: 'reply'
+        })
+      }
+     
     }
   }
 
